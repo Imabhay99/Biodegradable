@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671551298394",
+    "project_id": "eco-bin-b4be5",
+    "storage_bucket": "eco-bin-b4be5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671551298394:android:e2ff26e9c66b44ff647163",
+        "android_client_info": {
+          "package_name": "com.example.masters_final_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhVEzPM_txzYfvIW2pS8awJy02yiZWV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
