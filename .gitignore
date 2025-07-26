@@ -4,6 +4,7 @@
 *.pyc
 *.swp
 .DS_Store
+.dart_tool/
 .atom/
 .buildlog/
 .history
@@ -147,6 +148,7 @@ unlinked_spec.ds
 
 # Coverage
 coverage/
+
 
 # Symbols
 app.*.symbols
